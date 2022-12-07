@@ -127,12 +127,12 @@ Community (forum)
 ## 3.3. LEARNING OUTCOMES
 
 
-### **3.3.1. GENERAL COURSE OUTCOME**
+### 3.3.1. GENERAL COURSE OUTCOME
 
 Learners will get background knowledge necessary for understanding any blockchain project. In addition, they become “TON ecosystem ready'' after finishing the course, as well  Learners will get to know how the development environment works related to the TON as well.
 
 
-### **3.3.2 DETAILED MODULES OUTCOMES**
+### 3.3.2 DETAILED MODULES OUTCOMES
 
 
 <table>
