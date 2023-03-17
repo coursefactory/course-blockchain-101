@@ -20,7 +20,8 @@ It includes :
 ![ video 2](https://i.imgur.com/wlMEHlW.png)
 
 * Quiz
-![quiz](https://i.imgur.com/6VbcTRX.png)
+
+![ quiz](https://i.imgur.com/6VbcTRX.png)
 
 
 
