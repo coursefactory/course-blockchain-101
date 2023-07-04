@@ -92,7 +92,7 @@ Cryptocurrencies and differences between them|Fawaz Shakralla|
 |6.0|Final Words| | |all|
 
 1.8 Calculated the workload and fees for each of the experts
-![workload](https://i.imgur.com/W7Cltqr.png)
+![workload](https://i.imgur.com/VeqZCn2.jpg)
 
 1.9 Created elements with the experts
 
