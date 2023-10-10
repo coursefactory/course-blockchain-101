@@ -83,10 +83,14 @@ In the process of work we conducted:
 
 ### 5. Filmed the experts
 
-**Manama:** ![Manama](https://i.imgur.com/VBTgUYy.jpg)
-**Sao Paolo:** ![Sao Paolo](https://i.imgur.com/kSx5QGG.jpg)
+#### **Manama:** 
+![Manama](https://i.imgur.com/VBTgUYy.jpg)
 
-**Montenegro:** ![Montenegro](https://i.imgur.com/OcCdGCU.jpg)
+#### **Sao Paolo:** 
+![Sao Paolo](https://i.imgur.com/kSx5QGG.jpg)
+
+#### **Montenegro:**
+![Montenegro](https://i.imgur.com/OcCdGCU.jpg)
 
 ### 6. Designed slides
 
